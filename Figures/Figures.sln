@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Figures", "Figures\Figures.csproj", "{0F0F27CC-EA3F-434B-A1A8-05E8849964FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FiguresUnitTests", "FiguresUnitTests\FiguresUnitTests.csproj", "{A13B04B3-F295-4168-91B2-5924F4246E91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F0F27CC-EA3F-434B-A1A8-05E8849964FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0F27CC-EA3F-434B-A1A8-05E8849964FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0F27CC-EA3F-434B-A1A8-05E8849964FA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0F0F27CC-EA3F-434B-A1A8-05E8849964FA}.Debug|x64.Build.0 = Debug|Any CPU
+		{0F0F27CC-EA3F-434B-A1A8-05E8849964FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0F27CC-EA3F-434B-A1A8-05E8849964FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F0F27CC-EA3F-434B-A1A8-05E8849964FA}.Release|x64.ActiveCfg = Release|Any CPU
+		{0F0F27CC-EA3F-434B-A1A8-05E8849964FA}.Release|x64.Build.0 = Release|Any CPU
+		{A13B04B3-F295-4168-91B2-5924F4246E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13B04B3-F295-4168-91B2-5924F4246E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13B04B3-F295-4168-91B2-5924F4246E91}.Debug|x64.ActiveCfg = Debug|x64
+		{A13B04B3-F295-4168-91B2-5924F4246E91}.Debug|x64.Build.0 = Debug|x64
+		{A13B04B3-F295-4168-91B2-5924F4246E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13B04B3-F295-4168-91B2-5924F4246E91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A13B04B3-F295-4168-91B2-5924F4246E91}.Release|x64.ActiveCfg = Release|x64
+		{A13B04B3-F295-4168-91B2-5924F4246E91}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0F1DCC0-D79B-4DD7-A3C5-485AF4BCB8E6}
+	EndGlobalSection
+EndGlobal
